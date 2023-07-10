@@ -1,0 +1,14 @@
+.arcenciel{
+    display: flex;
+}
+.container{
+    display: flex;
+}
+
+.remplissage{
+    flex-grow: 1;
+}
+
+.arcenciel img{
+    height: 200px;
+}
